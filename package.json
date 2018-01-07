@@ -1,0 +1,10 @@
+{
+  "name": "dmx",
+  "version": "1.0.0",
+  "main": "dmx.js",
+  "license": "MIT",
+  "dependencies": {
+    "fivetwelve-driver-usbpro": "^1.0.2",
+    "serialport": "^6.0.4"
+  }
+}
